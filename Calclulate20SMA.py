@@ -1,4 +1,4 @@
-# calculating the 20 SMA using Pandas and without library
+# calculating the 20 SMA using Pandas and without using library
 
 from ibapi.client import EClient
 from ibapi.wrapper import EWrapper

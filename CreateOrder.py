@@ -38,7 +38,7 @@ def FX_order(symbol):
 	return contract
 
 app = IBapi()
-app.connect('127.0.0.1', 7497, 123)
+app.connect('127.0.0.1', 7497, 0)
 
 app.nextorderId = None
 
